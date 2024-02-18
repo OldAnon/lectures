@@ -4,3 +4,4 @@ version: ~
 
 nav:
 - modules/ROOT/nav.adoc
+- modules/lec1/nav.adoc
