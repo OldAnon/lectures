@@ -1,0 +1,18 @@
+site:
+  title: Конспекты 
+  start_page: types::index.adoc
+content:
+  sources:
+  - url: .
+    start_path: types
+    branches: HEAD
+
+
+asciidoc:
+  attributes:
+    page-pagination: ''
+
+ui:
+  bundle:
+    url: https://github.com/OldAnon/antora-default-ui/releases/latest/download/ui-bundle.zip
+    snapshot: true

@@ -1,0 +1,5 @@
+= Главная
+
+Типы
+
+image::image.jpg[width=600]

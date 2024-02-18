@@ -1,0 +1,6 @@
+name: types
+title: ЯП. Семантика и системы типов
+version: ~
+
+nav:
+- modules/ROOT/nav.adoc
