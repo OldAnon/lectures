@@ -1,5 +1,5 @@
 = Главная
 
-Здарова
+Здарова! Если шо, то вот xref:attachment$tapl.pdf[Книга Пирса].
 
 image::index.jpeg[width=600]
